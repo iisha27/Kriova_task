@@ -1,0 +1,41 @@
+body{
+    background:linear-gradient(rgba(150,150,150,0.5), rgba(150,150,150,0.5)), url(signup.jpg);
+
+}
+.register{
+    width:475px;
+    padding:0.7rem;
+    border-radius:8px;
+    border:2px solid #dddfe2;
+    box-shadow:0 2px 4px rgb(0 0 0 /10%), 0 8px 16px rgb(0 0 0/10%);
+    background: #fff;
+    align-items:center;
+    text-align:center;
+}
+
+.register input{
+    border-radius:8px;
+    width:90%;
+    margin:0.5rem 0;
+    padding: 0.5rem 1rem;
+    font-size:1rem;
+    border: 2px solid #dddfe2;
+}
+
+.register .submit{
+     background:#2d69b8;
+     border: 2px solid #2d69b8;
+     color:#fff;
+     font-size:1.25rem;
+     padding:0.25rem;
+     margin:0.5rem 1.5rem;
+     border-radius:9px;
+     outline:none;
+     cursor:pointer;
+
+}
+.register .login_account{
+    margin:1.5rem 1.5rem;
+    text-align:left;
+}
+
